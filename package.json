@@ -1,0 +1,11 @@
+{
+  "name": "dockerize-js",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "4.18.2"
+  },
+  "description": "A simple JavaScript app to be Dockerized",
+  "main": "server.js",
+  "author": "Kevin Feng",
+  "license": "ISC"
+}
